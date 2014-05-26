@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tags: [Jekyll, theme, modern, minimal, responsive]
+title: 关于我们
+tags: [weyuhe, alpar.wen, AH, minimal, responsive]
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -10,24 +10,28 @@ image:
 share: true
 ---
 
-They say three times the charm, so here is another free responsive Jekyll theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. If you've used my previous themes most of this should be familiar territory...
+# 博客刚建立，插播个招聘广告：
 
-## What HPSTR brings to the table:
+##  《前端开发 @iyq》
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Comments powered by [Disqus](http://disqus.com) if you choose to enable.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy
-* [Grunt](http://gruntjs.com) build script for easy theme development
+###【岗位职责】
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">Install the Theme</a></div>
+* 根据产品需求，分析并给出最优的页面前端结构解决方案；
+* 跟踪最新的前端技术和标准（HTML5），持续优化前端，以提高前端的用户体验及性能；
+* 开发适合公司业务需要的基于jQuery的JavaScript组件，并撰写开发文档。
+* 编写可复用的用户界面组件；
+
+###【岗位要求】
+
+* 至少具有3年以上开发经验，精通DIV+CSS和W3C标准，能熟练运用XHTML，CSS进行合理的网页制作，深刻理解手机平台上各主流浏览器之间的兼容性；
+* 熟悉Javascript/Json/XML/HTML5等Web前端技术；
+* 熟练使用JQuery和Bootstrap框架，有Node.js开发经验优先；
+* 善于使用前端的基本调试工具，熟练手写代码；
+* 熟悉交互设计，对可用性，可访问性等用户体验知识有相当的了解和实践经验；
+* 掌握至少一种服务端开发语言(例如PHP,Java,Python等)；
+* 对新技术有强烈的探索欲望，具备良好的服务意识、责任心、较强的学习能力、能承受一定的工作压力。
+
+<div markdown="0"><a href="http://www.lagou.com/jobs/38038.html" target="_blank" class="btn btn-info">赶紧来投简历吧！！！</a></div>
+<!--div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">赶紧来投简历吧！！！</a></div-->
 
 [^1]: Example: *domain.com/category-name/post-title*
