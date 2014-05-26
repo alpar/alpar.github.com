@@ -24,3 +24,9 @@ $(".about").click(function () {
 $(".close-about").click(function () {
   $("#about").css('display','');
 });
+
+$(".go-top").click(function() {
+    $("body, html").animate({
+        scrollTop:0
+    }, "slow");
+});
