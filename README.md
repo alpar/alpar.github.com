@@ -1,4 +1,4 @@
-## 这就是传说中的Jekyll，主题是[HPSTR](http://github.com/mmistakes)
+//## 这就是传说中的Jekyll，主题是[HPSTR](http://github.com/mmistakes)
 
 
 ## 博客刚建立，插播个招聘广告：《前端开发》
