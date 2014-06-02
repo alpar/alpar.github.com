@@ -1,74 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://alpar.github.cn</loc>
+        <loc>http://www.zjpl.com</loc>
     </url>
     
     
     <url>
-        <loc>http://alpar.github.cn/404.html</loc>
+        <loc>http://www.zjpl.com/404.html</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/about/</loc>
+        <loc>http://www.zjpl.com/about/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/feed.xml</loc>
+        <loc>http://www.zjpl.com/feed.xml</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/index.html</loc>
+        <loc>http://www.zjpl.com/index.html</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/posts/</loc>
+        <loc>http://www.zjpl.com/posts/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/sitemap.xml</loc>
+        <loc>http://www.zjpl.com/sitemap.xml</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/tags/</loc>
+        <loc>http://www.zjpl.com/tags/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/page2/index.html</loc>
+        <loc>http://www.zjpl.com/page2/index.html</loc>
     </url>
     
 
     
     <url>
-        <loc>http://alpar.github.cn/background-image/</loc>
+        <loc>http://www.zjpl.com/background-image/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/code-highlighting-post/</loc>
+        <loc>http://www.zjpl.com/code-highlighting-post/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/sample-link-post/</loc>
+        <loc>http://www.zjpl.com/sample-link-post/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/video-post/</loc>
+        <loc>http://www.zjpl.com/readability-feature-post/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/readability-feature-post/</loc>
+        <loc>http://www.zjpl.com/sample-post-images/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/sample-post-images/</loc>
+        <loc>http://www.zjpl.com/readability-post/</loc>
     </url>
     
     <url>
-        <loc>http://alpar.github.cn/readability-post/</loc>
-    </url>
-    
-    <url>
-        <loc>http://alpar.github.cn/sample-post/</loc>
+        <loc>http://www.zjpl.com/sample-post/</loc>
     </url>
     
 </urlset>
