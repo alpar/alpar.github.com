@@ -1,4 +1,8 @@
 
 _config.yml
 
+<<<<<<< HEAD
 node_modules/
+=======
+node_modules/
+>>>>>>> FETCH_HEAD
