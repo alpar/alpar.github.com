@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 来自支付宝的 JavaScript 注释规范
+title: JavaScript 注释规范
 date: 2014-09-15T19:23:13+08:00
 description: "mac系统下锁屏"
 tags: [lock mac]
@@ -9,6 +9,7 @@ image:
 comments: true
 share: true
 ---
+>来自支付宝的《JavaScript 注释规范》
 ## 总原则
 
 1. **As short as possible（如无必要，勿增注释）**。尽量提高代码本身的清晰性、可读性。
@@ -90,6 +91,6 @@ define(function(require, exports, module) {
 - 不写 JSDoc 类文档，可以让开发者在写代码时更专注于写代码，在写文档时则更专注于写文档。**让工作解耦，更专注。**
 
 
-## 相关讨论
+## 相关链接
 - [JavaScript 注释规范](https://github.com/aralejs/aralejs.org/wiki/JavaScript-注释规范)
 - [编码与文档风格讨论](https://github.com/aralejs/aralejs.org/issues/36)
