@@ -20,15 +20,15 @@ share: true
 ## 什么时候需要添加注释
 
 1. 某段代码的写法，需要注释说明 why 时：
-```js
+{% highlight js %}
 // Using loop is more efficient than `rest = slice.call(arguments, 1)`.
 for (i = 1, len = arguments.length; i < len; i++) {
     rest[i - 1] = arguments[i];
 }
-```
+{% endhighlight %}
 
 2. 添加上注释，能让代码结构更清晰时：
-```js
+{% highlight js %}
 init: function(selector, context, rootjQuery) {
     var match, elem, ret, doc;
 
@@ -47,28 +47,27 @@ init: function(selector, context, rootjQuery) {
         ...
      }
 }
-```
+{% endhighlight %}
 
 3. 有借鉴第三方代码，需要说明时：
-```js
+{% highlight js %}
 // Inspired by https://github.com/jquery/jquery/blob/master/src/core.js
 function ready() {
     ...
 }
-```
+{% endhighlight %}
 
 
 ## 文件起始处的约定
 
 每个源码文件的开头，保留为空：
 
-```js
-
+{% highlight js %}
 define(function(require, exports, module) {
     // 源代码
 });
 
-```
+{% endhighlight %}
 
 注意点：
 
