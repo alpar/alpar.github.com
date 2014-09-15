@@ -153,5 +153,5 @@ var x=y+z
 
 
 ## 相关链接
-- [JavaScript 注释规范](https://github.com/aralejs/aralejs.org/wiki/JavaScript-编码风格)
+- [JavaScript 编码风格](https://github.com/aralejs/aralejs.org/wiki/JavaScript-编码风格)
 - [编码与文档风格讨论](https://github.com/aralejs/aralejs.org/issues/36)
