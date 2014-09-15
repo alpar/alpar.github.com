@@ -44,11 +44,11 @@ share: true
 
 Vim 设置 tab 为 4 空格：
 
-````
+{% highlight js %}
 set tabstop=4
 set shiftwidth=4
 set expandtab
-````
+{% endhighlight %}
 
 
 ## 花括号
@@ -57,26 +57,26 @@ set expandtab
 
 好
 
-````
+{% highlight js %}
 if (foo) {
 }
-````
+{% endhighlight %}
 
 坏
 
-````
+{% highlight js %}
 if (foo)
 {
 }
-````
+{% endhighlight %}
 
 **不允许一行判断，一律换行**
 
 坏
 
-````
+{% highlight js %}
 if (foo) return;
-````
+{% endhighlight %}
 
 ##命名约定
 
@@ -91,57 +91,57 @@ if (foo) return;
 
 好
 
-````
+{% highlight js %}
 var x = y + z
-````
+{% endhighlight %}
 
 坏
 
-````
+{% highlight js %}
 var x=y+z
-````
+{% endhighlight %}
 
 ### 只空一格
 
 好
 
-````
+{% highlight js %}
 {
     a: 'short',
     looooongname: 'long'
 }
-````
+{% endhighlight %}
 
 坏
 
-````
+{% highlight js %}
 {
     a           : 'short',
     looooongname: 'long'
 }
-````
+{% endhighlight %}
 
 ## 逗号与换行
 
 建议用自然人的处理方法
 
-````
+{% highlight js %}
 {
    a: 'a',
    b: 'b',
    c: 'c'
 }
-````
+{% endhighlight %}
 
 不建议使用 npm 风格的逗号与换行，即
 
-````
+{% highlight js %}
 {
    a: 'a'
   ,b: 'b'
   ,c: 'c'
 }
-````
+{% endhighlight %}
 
 
 ## 变量声明
