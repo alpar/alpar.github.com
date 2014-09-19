@@ -34,7 +34,7 @@ share: true
 
 
 
-<div markdown="0"><a href="http://www.lagou.com/jobs/38038.html" target="_blank" class="btn btn-info">赶紧来投简历吧！！！</a></div>
+<div markdown="0"><a href="http://www.lagou.com/jobs/129335.html" target="_blank" class="btn btn-info">赶紧来投简历吧！！！</a></div>
 <!--div markdown="0"><a href="{{ site.url }}/theme-setup" class="btn btn-info">赶紧来投简历吧！！！</a></div-->
 
 [^1]: Example: *domain.com/category-name/post-title*
